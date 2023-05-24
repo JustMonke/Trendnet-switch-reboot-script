@@ -12,6 +12,7 @@ options.add_argument('--headless')
 options.add_argument('log-level=3')
 
 Then, change this line
+
 driver = webdriver.Chrome(service_log_path='NUL', options=options)
 
 to
