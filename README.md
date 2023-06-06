@@ -6,6 +6,7 @@ If there is an error when performing the above, open up command prompt on window
 
 Once directory is changed, you can now input the command:
 > pip install selenium
+
 Python will now install selenium
 
 This switch model is TPE-1020WS.
