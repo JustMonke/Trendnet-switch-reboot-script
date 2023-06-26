@@ -13,6 +13,8 @@ This switch model is TPE-1020WS.
 Things to edit before running script:
 - IP address of switch
 - login ID and password
+Change "password" to the login password
+Password.send_keys("password" + Keys.ENTER)
 As the code runs on headless chrome browser, it is not possible to see the process.
 To view the code executed line by line in selenium, remove the following lines
 
